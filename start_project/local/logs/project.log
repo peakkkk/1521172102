@@ -1,0 +1,93 @@
+2018-04-26T01:35:23.330Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T01:35:23.338Z - normal: checking language setting...
+2018-04-26T01:35:23.338Z - normal: Language: zh
+2018-04-26T01:35:25.093Z - success: protocol editor-framework registered
+2018-04-26T01:35:25.093Z - success: protocol app registered
+2018-04-26T01:35:25.093Z - success: protocol theme registered
+2018-04-26T01:35:25.093Z - success: protocol profile registered
+2018-04-26T01:35:25.093Z - success: protocol packages registered
+2018-04-26T01:35:25.093Z - success: protocol unpack registerred
+2018-04-26T01:35:25.094Z - success: protocol disable-commonjs registerred
+2018-04-26T01:35:25.425Z - normal: connected!
+2018-04-26T01:35:25.437Z - normal: Check project E:\2018\game\start_project
+2018-04-26T01:35:25.449Z - normal: Initializing Cocos2d
+2018-04-26T01:35:26.003Z - normal: Initializing Asset Database
+2018-04-26T01:35:26.052Z - success: protocol uuid registerred
+2018-04-26T01:35:26.052Z - success: protocol db registerred
+2018-04-26T01:35:26.053Z - success: protocol thumbnail registerred
+2018-04-26T01:35:26.053Z - normal: Loading editor/builtin packages
+2018-04-26T01:35:26.084Z - success: anysdk loaded
+2018-04-26T01:35:26.268Z - success: assets loaded
+2018-04-26T01:35:26.271Z - success: builder loaded
+2018-04-26T01:35:26.275Z - success: hierarchy loaded
+2018-04-26T01:35:26.279Z - success: inspector loaded
+2018-04-26T01:35:26.281Z - success: keystore loaded
+2018-04-26T01:35:26.285Z - success: node-library loaded
+2018-04-26T01:35:26.288Z - success: package-asset loaded
+2018-04-26T01:35:26.291Z - success: preferences loaded
+2018-04-26T01:35:26.308Z - success: project-importer loaded
+2018-04-26T01:35:26.311Z - success: project-settings loaded
+2018-04-26T01:35:26.314Z - success: ui-kit loaded
+2018-04-26T01:35:26.317Z - success: ui-grid loaded
+2018-04-26T01:35:26.324Z - success: scene loaded
+2018-04-26T01:35:26.326Z - success: sprite-editor loaded
+2018-04-26T01:35:26.331Z - success: store loaded
+2018-04-26T01:35:26.337Z - success: timeline loaded
+2018-04-26T01:35:26.338Z - normal: Loading builtin packages
+2018-04-26T01:35:26.342Z - success: asset-db-debugger loaded
+2018-04-26T01:35:26.344Z - success: code-editor loaded
+2018-04-26T01:35:26.345Z - success: color-picker loaded
+2018-04-26T01:35:26.349Z - success: console loaded
+2018-04-26T01:35:26.353Z - success: package-manager loaded
+2018-04-26T01:35:26.367Z - success: sdkbox loaded
+2018-04-26T01:35:26.372Z - success: tester loaded
+2018-04-26T01:35:26.375Z - success: ui-kit-preview-extra loaded
+2018-04-26T01:35:26.378Z - success: ui-kit-preview loaded
+2018-04-26T01:35:26.383Z - success: ui-tree loaded
+2018-04-26T01:35:28.529Z - normal: Initializing project E:\2018\game\start_project
+2018-04-26T01:35:28.548Z - normal: Loading packages
+2018-04-26T01:35:28.571Z - normal: Watching packages
+2018-04-26T01:35:28.641Z - normal: Run Application
+2018-04-26T01:35:31.176Z - success: preview server running at http://localhost:7456
+2018-04-26T01:35:50.243Z - normal: 1.5.1
+2018-04-26T01:41:16.797Z - normal: Compiled project javascript file successfully
+2018-04-26T01:42:44.240Z - normal: Compiled project javascript file successfully
+2018-04-26T01:45:22.881Z - normal: Compiled project javascript file successfully
+2018-04-26T01:46:46.746Z - normal: Compiled project javascript file successfully
+2018-04-26T01:50:24.012Z - normal: Compiled project javascript file successfully
+2018-04-26T01:52:49.448Z - normal: Compiled project javascript file successfully
+2018-04-26T02:37:07.578Z - failed: [db-task][sync-changes] Failed to import asset E:\2018\game\start_project\assets\scripts\Star.js, message: Compile error: SyntaxError: unknown: Unexpected token (38:0)
+  36 | 
+  37 |     // },
+> 38 | });
+     | ^
+  39 | 
+    at Parser.pp$5.raise (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4443:13)
+    at Parser.pp.unexpected (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1755:8)
+    at Parser.pp$3.parseExprAtom (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3740:12)
+    at Parser.pp$3.parseExprSubscripts (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3484:19)
+    at Parser.pp$3.parseMaybeUnary (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3464:19)
+    at Parser.pp$3.parseExprOps (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3394:19)
+    at Parser.pp$3.parseMaybeConditional (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3371:19)
+    at Parser.pp$3.parseMaybeAssign (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3334:19)
+    at Parser.pp$3.parseExprListItem (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4301:16)
+    at Parser.pp$3.parseCallExpressionArguments (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3563:20)
+2018-04-26T02:40:13.502Z - normal: Compiled project javascript file successfully
+2018-04-26T02:43:47.160Z - normal: Compiled project javascript file successfully
+2018-04-26T02:45:22.564Z - normal: Compiled project javascript file successfully
+2018-04-26T02:47:02.684Z - normal: Compiled project javascript file successfully
+2018-04-26T02:48:09.350Z - normal: Compiled project javascript file successfully
+2018-04-26T02:50:10.838Z - normal: Compiled project javascript file successfully
+2018-04-26T02:57:51.308Z - normal: Compiled project javascript file successfully
+2018-04-26T03:02:55.439Z - normal: Compiled project javascript file successfully
+2018-04-26T03:08:46.743Z - normal: Compiled project javascript file successfully
+2018-04-26T03:10:26.228Z - normal: Compiled project javascript file successfully
+2018-04-27T02:16:55.157Z - info: shutdown preview server
+2018-04-27T02:16:55.247Z - error: Error: getaddrinfo ENOENT metrics.sdkbox.com:80
+    at Object.exports._errnoException (util.js:1026:11)
+    at errnoException (dns.js:33:15)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+    at process.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:983)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
